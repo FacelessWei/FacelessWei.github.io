@@ -6,21 +6,21 @@ layout: page
 
 <img src="/images/zhenyu.jpg" class="floatpic" width="360" height="480">
 
-**Zhenyu Wei (魏震宇)**
+This is **Zhenyu Wei (魏震宇)**
 
 I am the Co-founder and COO of Westlake Robotics now. Before founding Westlake Robotics, I worked as an assistant researcher at Westlake University from May 2023 to Jan 2024 and postdoctoral research associate at Westlake University from May 2021 to May 2023. I received a Ph.D. degree from Harbin Engineering University in 2021, advised by Professor Wei Wang. Prior to that, I received my undergraduate degree on Engineering from Harbin Engineering University. My research interesets include robot learning, its underlying machine learning algorithms, model-based control algorithms, state estimation algorithms and downstream applications.
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at <g.weizhenyu@gmail.com>
 
----
+<!-- --- -->
 
-## Research Interests
+<!-- ## Research Interests -->
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
+<!-- - [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
 - Cyber-Physical System
 - Applied Machine Learning
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society. -->
 
 ---
 
