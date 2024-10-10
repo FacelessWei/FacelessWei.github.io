@@ -4,13 +4,13 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="/images/zhenyu.jpg" class="floatpic" width="360" height="480">
 
- **Zhenyu Wei (魏震宇)**
+**Zhenyu Wei (魏震宇)**
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI and SIGKDD Undergraduate Scholars**.
+I am the Co-founder and COO of Westlake Robotics now. Before founding Westlake Robotics, I worked as an assistant researcher at Westlake University from May 2023 to Jan 2024 and postdoctoral research associate at Westlake University from May 2021 to May 2023. I received a Ph.D. degree from Harbin Engineering University in 2021, advised by Professor Wei Wang. Prior to that, I received my undergraduate degree on Engineering from Harbin Engineering University. My research interesets include robot learning, its underlying machine learning algorithms, model-based control algorithms, state estimation algorithms and downstream applications.
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at <g.weizhenyu@gmail.com>
 
 ---
 
